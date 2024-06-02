@@ -1,6 +1,6 @@
 👋 Hello, I'm Dev.
 👀 My passion lies in continuous learning.
-🌱 Currently, I'm learning Python and C++.
+🌱 Currently, I'm learning Webdev, Python and C++.
 💞️ Open to collaborating on projects that enhances my understanding across various concepts.
 📫 Feel free to reach out to me at devbhangale.work@gmail.com.
 
